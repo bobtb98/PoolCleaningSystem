@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCM Management System", "MCM Management System\MCM Management System.csproj", "{2E68053F-7EA9-421E-ACFB-0E14B695BBAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{31AA1B33-53FD-4571-AC4F-7B3F57481FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E68053F-7EA9-421E-ACFB-0E14B695BBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E68053F-7EA9-421E-ACFB-0E14B695BBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E68053F-7EA9-421E-ACFB-0E14B695BBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E68053F-7EA9-421E-ACFB-0E14B695BBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AA1B33-53FD-4571-AC4F-7B3F57481FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AA1B33-53FD-4571-AC4F-7B3F57481FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AA1B33-53FD-4571-AC4F-7B3F57481FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AA1B33-53FD-4571-AC4F-7B3F57481FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608AED10-A391-48EC-9CEA-43448826EBAB}
+	EndGlobalSection
+EndGlobal

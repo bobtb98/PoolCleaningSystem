@@ -1,0 +1,389 @@
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\MySql.Data.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\EnvDTE.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Zstandard.Net.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\stdole.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\System.Memory.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\System.Buffers.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Microsoft.MSXML.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\RdlCompile.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\RdlCompile.compiled
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\EnvDTE.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\stdole.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Memory.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Buffers.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe.config
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.opsManagerModule.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\RdlCompile.cache
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\RdlCompile.compiled
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+C:\Users\ys_le\OneDrive\Desktop\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\EnvDTE.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\stdole.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe.config
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.opsManagerModule.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\RdlCompile.cache
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\RdlCompile.compiled
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+C:\Users\User\Downloads\MCM Management System\MCM Management System\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.opsManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\RdlCompile.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\RdlCompile.compiled
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System - Windows Client Application\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Client.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\MySql.Data.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\EnvDTE.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Zstandard.Net.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\stdole.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\System.Memory.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\System.Buffers.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\Microsoft.MSXML.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.opsManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\RdlCompile.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\RdlCompile.compiled
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Final Project Submission\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe.config
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.forgotPasword2.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginPassword.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.loginUsername.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.opsManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.ownerAssManagerModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.systemAdminModule.resources
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\RdlCompile.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\RdlCompile.compiled
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Alan's\CSIT314 - DEVELOPMENT METHODOLOGIES WEB\Group Project(40%) FEB2021\Project Final Submission\CSIT314_GROUPPROJECT_GROUP5_GROUPNAME-GP4+1\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
